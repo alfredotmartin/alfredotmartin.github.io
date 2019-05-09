@@ -14,7 +14,7 @@ title: 'Spider-Man: Far from Home Full Movie (2019)'
 image: "/uploads/spidy.jpg"
 layout: post
 pagination:
-  enabled: false
+  enabled: true
 
 ---
 Peter Parker and his friends go on a European vacation, where Peter finds himself agreeing to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.
