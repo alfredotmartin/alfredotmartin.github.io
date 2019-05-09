@@ -2,7 +2,7 @@
 title: Detective Pikachu 2019 movie streaming
 layout: post
 pagination:
-  enabled: true
+  enabled: false
 description: ''
 
 ---
