@@ -12,7 +12,7 @@ tags:
 - movie2019
 - streaming
 - imdb
-images: ''
+images: "/uploads/pika.jpg"
 
 ---
 
