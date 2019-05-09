@@ -4,6 +4,7 @@ layout: post
 pagination:
   enabled: false
 description: dalam sejarah anak manusia dimuka bumi ini ya
+picture: "/uploads/pikachu.jpg"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ex id nisl pharetra euismod. Aliquam nulla ante, consequat sit amet nisi ut, consectetur egestas mi. Fusce vulputate in diam a fermentum. 
