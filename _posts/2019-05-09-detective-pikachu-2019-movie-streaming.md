@@ -4,7 +4,14 @@ layout: post
 pagination:
   enabled: false
 description: ''
-picture: "/uploads/pikachu.jpg"
+picture:
+- "/uploads/pikachu.jpg"
+tags:
+- movie
+- pikachu
+- movie2019
+- streaming
+- imdb
 
 ---
 The story starts when expert criminologist Harry Goodman goes bafflingly missing, provoking his 21-year-old child Tim to discover what occurred.
