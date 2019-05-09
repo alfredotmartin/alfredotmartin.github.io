@@ -12,9 +12,9 @@ tags:
 - movie2019
 - streaming
 - imdb
+images: ''
 
 ---
-\[object HTMLLIElement\]
 
 The story starts when expert criminologist Harry Goodman goes bafflingly missing, provoking his 21-year-old child Tim to discover what occurred.
 
