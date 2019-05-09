@@ -14,6 +14,8 @@ tags:
 - imdb
 
 ---
+\[object HTMLLIElement\]
+
 The story starts when expert criminologist Harry Goodman goes bafflingly missing, provoking his 21-year-old child Tim to discover what occurred.
 
 Helping in the examination is Harry's previous Pokémon accomplice, Detective Pikachu: a humorously astute breaking, cute super-sleuth who is a puzzlement even to himself. Finding that they are particularly outfitted to speak with each other, Tim and Pikachu unite on an exciting experience to unwind the tangled riddle.
