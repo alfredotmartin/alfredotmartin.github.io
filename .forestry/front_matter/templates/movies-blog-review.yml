@@ -3,10 +3,9 @@ label: Movies Blog Review
 hide_body: false
 fields:
 - name: picture
-  type: file
-  config:
-    maxSize: 250
-  label: Picture
+  type: image_gallery
+  config: {}
+  label: picture
 - type: text
   name: title
   label: title
@@ -20,8 +19,9 @@ fields:
   - type: boolean
     name: enabled
     label: enabled
-- type: text
-  name: description
-  label: description
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - _posts/2019-05-09-detective-pikachu-2019-movie-streaming.md
