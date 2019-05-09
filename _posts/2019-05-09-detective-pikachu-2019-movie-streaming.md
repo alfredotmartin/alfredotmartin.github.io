@@ -13,6 +13,8 @@ tags:
 - streaming
 - imdb
 images: "/uploads/pika.jpg"
+image: "/uploads/pika.jpg"
+categories: []
 
 ---
 
