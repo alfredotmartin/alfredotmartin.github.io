@@ -4,15 +4,19 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- name: images
+  label: Title
+- name: image
   type: file
   config:
     maxSize: 250
-  label: Images
+  label: Featured Image
 - type: text
   name: layout
-  label: layout
+  label: Layout
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 - type: field_group
   name: pagination
   label: pagination
