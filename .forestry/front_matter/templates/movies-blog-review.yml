@@ -2,13 +2,15 @@
 label: Movies Blog Review
 hide_body: false
 fields:
-- name: picture
-  type: image_gallery
-  config: {}
-  label: picture
 - type: text
   name: title
   label: title
+- name: picture
+  type: file
+  config:
+    maxSize: 250
+  label: Picture
+  hidden: false
 - type: text
   name: layout
   label: layout
