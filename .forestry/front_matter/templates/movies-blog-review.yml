@@ -5,15 +5,15 @@ fields:
 - type: text
   name: title
   label: title
+- type: text
+  name: layout
+  label: layout
 - name: picture
   type: file
   config:
     maxSize: 250
   label: Picture
   hidden: false
-- type: text
-  name: layout
-  label: layout
 - type: field_group
   name: pagination
   label: pagination
