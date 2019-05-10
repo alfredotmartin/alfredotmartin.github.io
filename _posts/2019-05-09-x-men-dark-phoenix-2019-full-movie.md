@@ -8,7 +8,8 @@ categories:
 - Alexandra Shipp
 - fullmovie
 - download
-tags: []
+tags:
+- sticky
 title: 'X-Men: Dark Phoenix (2019) Full Movie'
 image: "/uploads/phoenix.jpg"
 layout: post
