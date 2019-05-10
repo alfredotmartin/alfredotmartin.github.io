@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Movieez
       site:           
-      avatar:         https://avatars3.githubusercontent.com/u/50395757?s=460&v=4
+      avatar:         
       bio:            "I hope you like it!"
       email:          
       twitter:        
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: Movieez
-      avatar: https://avatars3.githubusercontent.com/u/50395757?s=460&v=4
+      avatar: 
       
   # all pages
   - scope:
