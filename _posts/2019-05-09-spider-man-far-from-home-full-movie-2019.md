@@ -9,7 +9,8 @@ categories:
 - sony
 - streaming
 - 1080p
-tags: []
+tags:
+- Sticky
 title: 'Spider-Man: Far from Home Full Movie (2019)'
 image: "/uploads/spidy.jpg"
 layout: Post
