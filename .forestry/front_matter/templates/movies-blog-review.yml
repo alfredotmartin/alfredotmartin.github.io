@@ -29,6 +29,7 @@ fields:
   default: []
   label: tags
 pages:
+- _posts/captain-marvel-full-movie-2019.md
 - _posts/2019-05-10-aladdin-2019-full-hd-movie.md
 - _posts/2019-05-10-john-wick-chapter-3-parabellum-full-movie-2019.md
 - _posts/shazam-full-movie-2019.md
