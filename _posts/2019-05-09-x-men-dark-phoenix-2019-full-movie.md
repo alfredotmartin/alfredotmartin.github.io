@@ -10,6 +10,7 @@ categories:
 - download
 tags:
 - Sticky
+- sticky
 title: 'X-Men: Dark Phoenix (2019) Full Movie'
 image: "/uploads/phoenix.jpg"
 layout: post
