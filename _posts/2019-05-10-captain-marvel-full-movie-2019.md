@@ -13,7 +13,7 @@ tags:
 - Sticky
 title: Captain Marvel Full Movie 2019
 image: "/uploads/captainmarvel.JPG"
-layout: ''
+layout: post
 pagination:
   enabled: true
 
