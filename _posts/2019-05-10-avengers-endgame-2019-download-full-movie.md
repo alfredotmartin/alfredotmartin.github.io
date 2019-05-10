@@ -8,6 +8,7 @@ categories:
 - marvel studio
 tags:
 - Sticky
+- featured
 title: 'Avengers: Endgame 2019 Download Full Movie'
 image: "/uploads/endgame.jpg"
 layout: post
