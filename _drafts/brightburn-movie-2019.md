@@ -9,7 +9,7 @@ categories:
 - HDmovie
 tags:
 - Sticky
-title: Brightburn Movie 2019
+title: Brightburn Movie 2019 Download
 image: "/uploads/Brightburn.jpg"
 layout: post
 pagination:
